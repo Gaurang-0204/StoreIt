@@ -952,11 +952,6 @@ git push origin feature/your-feature-name
 
 ---
 
-## 📝 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-You are free to use, modify, and distribute this software for commercial and non-commercial purposes.
 
 ---
 
@@ -999,18 +994,11 @@ Absolutely! See the **Contributing** section above for guidelines.
 
 ## 👨‍💼 Author
 
-**Gaurang Pendse**
+**Gaurang Salvi**
 - GitHub: [@Gaurang-0204](https://github.com/Gaurang-0204)
 - Portfolio: [Your Portfolio Link]
 - Email: [Your Email]
 
-## 🙏 Acknowledgments
-
-Special thanks to:
-- **Adrian Hajdin** from JavaScript Mastery for the project inspiration and tutorials
-- **Appwrite** team for the excellent BaaS platform
-- **Next.js** and **React** communities for amazing tools
-- All contributors who have helped improve this project
 
 ---
 
@@ -1025,7 +1013,7 @@ Special thanks to:
 
 <div align="center">
 
-**Made with ❤️ by Gaurang Pendse**
+**Made with ❤️ by Gaurang Salvi*
 
 If you found this project helpful, please give it a ⭐ on GitHub!
 
